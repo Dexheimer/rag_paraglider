@@ -16,5 +16,8 @@ So, at first, the product is to create an Ask Me Anything regarding Brazilian pa
 
 The AI agent will notify the pilots of the forecast for free flight regarding the forecast. Is it going to be good for free flight? Is it going to be classic conditions? Not ok? Maybe?
 
+Overall schema of the project (source: Pinecone)
+
+![image](https://github.com/Dexheimer/rag_paraglider/assets/29122909/341e3d7d-777a-4786-9b77-cd858b087d1c)
 
 
